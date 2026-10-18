@@ -1,6 +1,6 @@
 # Project brief: priorización de vulnerabilidades explotadas (CVE + CISA KEV + EPSS)
 
-**Autor:** Adrian (foxploit) · **Curso:** Ciberseguridad y Data Intelligence, MSMK University · **Entrega:** capítulo 1 del Assignment Brief
+**Autor:** Adrian Rodríguez Ortiz · **Curso:** Ciberseguridad y Data Intelligence, MSMK University · **Entrega:** capítulo 1 del Assignment Brief
 
 ## 1. Dataset
 
