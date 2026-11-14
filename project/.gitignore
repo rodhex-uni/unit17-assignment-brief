@@ -1,2 +1,5 @@
 data/
 PROJECT_BRIEF.md
+.venv
+model.joblib
+__pycache__
